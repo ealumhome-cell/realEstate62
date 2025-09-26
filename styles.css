@@ -1,0 +1,23 @@
+h1 {
+    background-color: tomato;
+}
+
+h2 {
+    background-color: skyblue;
+}
+
+h3 {
+    background-color: green;
+}
+
+.my-paragraph-style {
+    color: orange;
+}
+
+p {
+    color: blue;
+}
+
+.red-paragraph {
+    color: red;
+}
